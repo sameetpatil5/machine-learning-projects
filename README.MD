@@ -1,4 +1,4 @@
-# 🤖 Machine Learning A-Z™ - Hands-On Python & R Projects 🚀  
+# 🤖 Machine Learning A-Z™ - Hands-On Python Projects 🚀  
 
 🌟 Welcome to my repository showcasing projects from the **[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)** course by **Kirill Eremenko** and **Hadelin de Ponteves** on _Udemy_!  
 
